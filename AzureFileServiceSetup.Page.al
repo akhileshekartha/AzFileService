@@ -62,7 +62,7 @@ page 50100 "AKH Azure File Service Setup"
                 var
                     AFSDirectoryContent: Record "AFS Directory Content";
                     AzureFileServiceSetup: Record "AKH Azure File Service Setup";
-                    AzureFileService: Codeunit "FNZ Azure File Service";
+                    AzureFileService: Codeunit "AKH Azure File Service";
                     TempBlob: Codeunit "Temp Blob";
                     FileContent: BigText;
                     FileInStream: InStream;

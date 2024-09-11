@@ -1,4 +1,4 @@
-codeunit 50100 "FNZ Azure File Service"
+codeunit 50100 "AKH Azure File Service"
 {
     var
         AzureFileServiceSetup: Record "AKH Azure File Service Setup";
