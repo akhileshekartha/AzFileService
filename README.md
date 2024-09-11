@@ -22,6 +22,6 @@ Use AL to interact with files:
 codeunit 50100 "AKH Azure File Service"
 // Reading a file
 procedure ReadFileFromShare(FilePath: Text; var FileText: Text)
-
+```
 ## More details
 [Azure File Share and BC](https://akhileshkartha.com/2024/09/12/azure-file-share-and-bc/)
